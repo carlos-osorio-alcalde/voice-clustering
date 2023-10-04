@@ -1,0 +1,4 @@
+datasets == 2.14.5
+huggingface_hub == 0.17.3
+soundfile == 0.12.1
+librosa == 0.10.1
